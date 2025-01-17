@@ -122,7 +122,7 @@ Save and exit. Your script will now run daily.
 ### Common Issues
 1. **Login failed:**
    - Verify your Gradescope credentials in `config.json`.
-   - Ensure Gradescope isn’t requiring additional authentication (e.g., CAPTCHA).
+   - Ensure Gradescope isn’t requiring additional authentication (e.g., CAPTCHA or DUO Verification).
 
 2. **Google Calendar API errors:**
    - Ensure `credentials.json` and `token.json` exist in the project directory.
