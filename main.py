@@ -12,7 +12,7 @@ from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 
 # Configuration paths
-BASE_DIR = os.path.expanduser("~/Documents/Documents - Aditya’s MacBook Pro/VisualStudioCode/VSC/Gradescope2Google")
+BASE_DIR = os.path.expanduser("~/VSC/Gradescope2Google")
 CONFIG_PATH = os.path.join(BASE_DIR, "config.json")
 OUTPUT_DIR = os.path.join(BASE_DIR, "output")
 DEADLINES_FILE = os.path.join(OUTPUT_DIR, "selenium_deadlines.json")
