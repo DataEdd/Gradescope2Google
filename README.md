@@ -68,6 +68,8 @@ pip install -r requirements.txt
    }
    ```
    - Replace `course_ids` with the IDs of your Gradescope courses. You can find these in the URL when viewing a course on Gradescope (e.g., `https://www.gradescope.com/courses/940384`).
+     
+3. Change the color map dictionary to your courses and colors of your choice.
 
 ---
 
