@@ -1,0 +1,5 @@
+{
+    "username": "your_email@example.com",
+    "password": "your_password",
+    "course_ids": ["123456", "789012"]
+}
